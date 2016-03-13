@@ -1,0 +1,19 @@
+{
+  "name": "tf2-inventory-parser",
+  "version": "0.0.1",
+  "description": "TF2 inventory parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/tf2-inventory-parser.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montyanderson/tf2-inventory-parser/issues"
+  },
+  "homepage": "https://github.com/montyanderson/tf2-inventory-parser#readme"
+}
