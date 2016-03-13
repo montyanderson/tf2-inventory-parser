@@ -1,5 +1,7 @@
 # tf2-inventory-parser
 
+[![Dependency Status](https://david-dm.org/montyanderson/tf2-inventory-parser.svg)](https://david-dm.org/montyanderson/tf2-inventory-parser)
+
 TF2 inventory parser.
 
 ```
